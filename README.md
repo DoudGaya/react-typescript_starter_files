@@ -1,1 +1,0 @@
-# react-typescript_starter_files
